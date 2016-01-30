@@ -1,0 +1,2 @@
+debian/bin/SatoshiChaind usr/bin
+src/SatoshiChaind usr/lib/SatoshiChain
